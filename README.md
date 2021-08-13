@@ -1,2 +1,2 @@
 # Jogo-da-velha
-Aplicação em JavaScript
+Aplicação em JavaScript.
